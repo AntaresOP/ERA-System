@@ -1,0 +1,1 @@
+ERA System is an enterprise-grade agentic search engine built using FastAPI and LangGraph. It leverages parent-child hierarchical text chunking to maximize retrieval accuracy. ChromaDB stores high-dimensional dense embeddings created by SentenceTransformers. BM25 sparse search combines with dense search using Reciprocal Rank Fusion.

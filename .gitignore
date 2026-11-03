@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment Variables & Keys
+.env
+
+# Vector Database Local Files & Datasets
+data/chroma/
+data/arxiv_ai_ml_papers.csv
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+
+# OS Files
+.DS_Store
+Thumbs.db
